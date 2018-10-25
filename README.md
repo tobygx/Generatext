@@ -2,13 +2,13 @@
 
 ## Schema
 
-![schema](https://github.com/claverru/generatext/blob/master/Scheme.png)
+![schema](https://github.com/tobygx/Generatext/blob/master/Scheme.png)
 
 
 ## Instructions for use
 
 ````
-git clone https://github.com/claverru/generatext.git
+git clone https://github.com/tobygx/Generatext.git
 ````
 
 Read READMEs inside text, then ml, then ec.
